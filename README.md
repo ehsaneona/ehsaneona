@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [Sahmeto](https://sahmeto.com/)
 
-- 📝 I regularly write articles on [https://virgool.io/@ehsanakbarzadeh](https://virgool.io/@ehsanakbarzadeh)
+- 📝 I regularly write articles on [virgool.io](https://virgool.io/@ehsanakbarzadeh)
 
-- 💬 Ask me about **vue, nuxt**
+- 💬 Ask me about **React, Next**
 
 - 📫 How to reach me **ehsaneona@gmail.com**
 
