@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ehsan</h1>
-<h3 align="center">A curious frontend developer</h3>
+<h3 align="center">A curious Frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ehsaneona&label=Profile%20views&color=0e75b6&style=flat" alt="ehsaneona" /> </p>
 
-- 🔭 I’m currently working on [Hamrahaval](https://mci.ir/)
+- 🔭 I’m currently working on [Hamrahe aval(MCI)](https://mci.ir/)
 
 - 📝 I regularly write articles on [virgool.io](https://virgool.io/@ehsanakbarzadeh)
 
